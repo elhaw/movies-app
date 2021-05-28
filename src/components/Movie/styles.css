@@ -1,0 +1,14 @@
+.movie_wrapper-title {
+  color: white;
+  font-size: 0.8rem;
+  text-align: left;
+  font-weight: bold;
+}
+
+.movie_wrapper-vote,
+.movie_wrapper-rate {
+  color: white;
+  text-align: left;
+  font-size: 0.7rem;
+  font-weight: bold;
+}

@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  background-color: #313131;
+}
+
+.movies_wrapper {
+  margin: 3rem 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 1rem 1rem;
+}
