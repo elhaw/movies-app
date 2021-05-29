@@ -10,8 +10,9 @@ function App() {
   const dispatch = useAppDispatch();
 
   useEffect(() => {
+    console.log("hello");
     dispatch(getMoviesAsync(1));
-  }, []);
+  }, [dispatch]);
   return (
     <div className="App">
       <div className="container">
