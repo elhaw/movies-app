@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## Demo
+
+check the demo [link](https://top-movies-app.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -24,10 +28,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Notes 
 you need to add `.env` file and add the follwing key values
-REACT_APP_API_BASE_URL=https://api.themoviedb.org
-REACT_APP_PUBLIC_API_TOKEN=xxxxxxxxxxxxxxxxx
-REACT_APP_IMAGES_HOST_BASE_URL=https://image.tmdb.org/t/p
+- REACT_APP_API_BASE_URL=https://api.themoviedb.org
+- REACT_APP_PUBLIC_API_TOKEN=xxxxxxxxxxxxxxxxx
+- REACT_APP_IMAGES_HOST_BASE_URL=https://image.tmdb.org/t/p
 
-### How to get public api token TMDB
+### How to get public api token for TMDB
 - create an account on [TMDB](https://www.themoviedb.org/)
 - within your account page navigate to [api on the left hand side bar](https://www.themoviedb.org/settings/api)
